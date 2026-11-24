@@ -1,0 +1,7 @@
+__pycache__/
+out/
+*.pyc
+# local test output
+/tmp-excuse/
+# editor backups
+*.swp
